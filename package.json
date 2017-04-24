@@ -1,0 +1,17 @@
+{
+  "name": "cordlr-pr0gramm",
+  "version": "0.0.0",
+  "description": "Gets back random pr0gramm posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cordlr",
+    "plugin"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cordlr-plugin": "0.0.5"
+  }
+}
